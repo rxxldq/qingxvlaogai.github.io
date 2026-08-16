@@ -38,6 +38,7 @@
 - 段落边界原则上跟随中文原文；屏幕上的段间距只是排版，不代表改写段落结构。
 - 作家、作品、人物、机构、品牌、地名和既有引文必须先查权威或通行英文版本；有正式译名或已出版译文时沿用，不凭语感另译。
 - 英文读者不容易辨认的中文品牌或事物，在首次出现时加一个最短的类别词，例如 `Chunghwa cigarettes`；不写冗长脚注，后文可只用名称。
+- 无法在正文内简短说明、且理解作品确实需要背景的信息，才使用弹出式脚注；这也包括会影响理解的中文语境，如谐音、方言、典故、网络梗或品牌暗含的社会意味。格式：`<button class="note-ref" type="button" data-note="Short note in English.">※</button>`。注释只补必要事实，不替读者解释作品或规定感受。
 - AI 英文版统一标注：`AI translation — closely following the imagery and cadence of the original Chinese.`
 - 未经文学性校订的粗译不应在首页标为可用英文版。
 
