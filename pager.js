@@ -2,8 +2,7 @@
   // 所有小说页的文件名（顺序 = 阅读顺序）
   const pages = [
     "novel-001.html",
-    "novel-002.html",
-    "novel-003.html"
+    "novel-002.html"
     // 以后只在这里加
   ];
 
