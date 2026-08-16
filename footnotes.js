@@ -29,9 +29,12 @@
   }
 
   refs.forEach((ref, index) => {
+    const isEnglish = document.documentElement.lang.toLowerCase().startsWith('en');
+    const label = isEnglish ? `Context note ${index + 1}` : `语境注释 ${index + 1}`;
     ref.setAttribute('aria-expanded', 'false');
     ref.setAttribute('aria-controls', popover.id);
-    if (!ref.getAttribute('aria-label')) ref.setAttribute('aria-label', `Note ${index + 1}`);
+    if (!ref.getAttribute('aria-label')) ref.setAttribute('aria-label', label);
+    if (!ref.getAttribute('title')) ref.setAttribute('title', isEnglish ? 'Context note' : '语境注释');
 
     ref.addEventListener('click', event => {
       event.stopPropagation();
