@@ -1,24 +1,40 @@
+- title: 在秦皇岛，猫可以变成老虎
+  url: /cats-become-tigers.html
+  year: 2026
+  order: 10
+- title: 聚酯纤维
+  url: /polyester-fiber.html
+  year: 2026
+  order: 20
 - title: 秘书
   url: /novel-001.html
   year: 2026
-  order: 10
-  english_url: /novel-001-en.html
-  ai_translation: true
-- title: 下周升温
-  url: /novel-002.html
-  year: 2025
   order: 30
-  english_url: /novel-002-en.html
+  english_url: /novel-001-en.html
   ai_translation: true
 - title: 楼上楼下
   url: /upstairs-downstairs.html
   year: 2025
   order: 10
+- title: 带爷爷的故事
+  url: /grandpa-dai.html
+  year: 2025
+  order: 20
 - title: 策展人
   url: /curator.html
   year: 2025
-  order: 50
+  order: 30
+- title: 下周升温
+  url: /novel-002.html
+  year: 2025
+  order: 40
+  english_url: /novel-002-en.html
+  ai_translation: true
 - title: 寻找何莉
   url: /looking-for-he-li.html
   year: 2024
   order: 10
+- title: 夏天在秦皇岛
+  url: /summer-in-qinhuangdao.html
+  year: 2024
+  order: 20
