@@ -1,11 +1,15 @@
+---
+layout: null
+---
 <!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="一个收录中文与英文写作的个人档案。">
-  <title>L’imagination au pouvoir !</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="description" content="{{ site.description }}">
+  <title>{{ site.title }}</title>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 <body>
   <main class="site">
@@ -13,21 +17,28 @@
       <h1 lang="fr">L’imagination au pouvoir&nbsp;!</h1>
       <p class="subtitle">让想象力夺权</p>
     </header>
+
     <section class="special-edition" aria-labelledby="special-title">
       <h2 id="special-title">特别版 <span lang="en">Special Edition</span></h2>
-      <p><a href="middle-class-children.html">中产阶级的孩子们三篇</a> <a class="translation-link author-version" href="middle-class-children-en.html" lang="en">English</a></p>
+      <p><a href="{{ '/middle-class-children.html' | relative_url }}">中产阶级的孩子们三篇</a> <a class="translation-link author-version" href="{{ '/middle-class-children-en.html' | relative_url }}" lang="en">English</a></p>
     </section>
+
     <section class="archive" aria-labelledby="archive-title">
       <h2 id="archive-title" class="visually-hidden">文章目录</h2>
-      <section class="year" aria-labelledby="year-2026">
-        <h3 id="year-2026">2026</h3>
+      {% assign grouped = site.data.articles | group_by: 'year' | sort: 'name' | reverse %}
+      {% for year in grouped %}
+      <section class="year" aria-labelledby="year-{{ year.name }}">
+        <h3 id="year-{{ year.name }}">{{ year.name }}</h3>
         <ol class="writing-list">
-          <li><a href="novel-001.html">秘书</a> <a class="translation-link" href="novel-001-en.html" lang="en">English <span>· AI translation</span></a></li>
-          <li><a href="novel-002.html">下周升温</a> <a class="translation-link" href="novel-002-en.html" lang="en">English <span>· AI translation</span></a></li>
+          {% assign works = year.items | sort: 'order' %}
+          {% for work in works %}
+          <li><a href="{{ work.url | relative_url }}">{{ work.title }}</a>{% if work.english_url %} <a class="translation-link" href="{{ work.english_url | relative_url }}" lang="en">English{% if work.ai_translation %} <span>· AI translation</span>{% endif %}</a>{% endif %}</li>
+          {% endfor %}
         </ol>
       </section>
+      {% endfor %}
     </section>
-    <footer class="site-footer"><a href="hall.html">关于作者</a></footer>
+    <footer class="site-footer"><a href="{{ '/hall.html' | relative_url }}">关于作者</a> <a href="{{ '/feed.xml' | relative_url }}" lang="en">RSS</a></footer>
   </main>
 </body>
 </html>

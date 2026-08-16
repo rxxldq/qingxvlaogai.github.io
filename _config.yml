@@ -1,0 +1,9 @@
+title: L’imagination au pouvoir !
+description: 一个收录中文与英文写作的个人档案。
+url: https://rxxldq.github.io
+baseurl: /qingxvlaogai.github.io
+markdown: kramdown
+exclude:
+  - README.md
+  - scripts
+  - _templates
