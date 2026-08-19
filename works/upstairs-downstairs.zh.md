@@ -4,6 +4,8 @@ title: 楼上楼下
 lang: zh-CN
 year: 2025
 permalink: /upstairs-downstairs.html
+alternate: /upstairs-downstairs-en.html
+alternate_lang: en
 ---
 
 我们像是同间房的邻居，只是位置不大一样。

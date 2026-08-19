@@ -22,6 +22,8 @@
 - title: 楼上楼下
   english_title: Upstairs and Downstairs
   url: /upstairs-downstairs.html
+  english_url: /upstairs-downstairs-en.html
+  ai_translation: true
   year: 2025
   order: 10
 - title: 带爷爷的故事
