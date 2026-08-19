@@ -11,7 +11,7 @@ ai_translation: true
 
 We are not peasants.
 
-Old peasants did turn up now and then. In autumn, driving donkey carts piled high, they squeezed out through the broken leaves and made straight for the gate tower. Arrive late and their vegetables would fetch no good price. The sun revolved. Their gazes bent downward, afraid to look up. They had lived forty or fifty years without once seeing the plaque under the flying eaves, its four words—PASS ONE FIRST UNDER HEAVEN—read from right to left.
+Old peasants did turn up now and then. In autumn, driving donkey carts piled high, they squeezed out through the broken leaves and made straight for the gate tower. Arrive late and their vegetables would fetch no good price. The sun revolved. Their gazes bent downward, afraid to look up. They had lived forty or fifty years without once seeing the plaque under the flying eaves, its four characters—FIRST PASS UNDER HEAVEN—read from right to left.
 
 You could not say the room was freezing, but your fingers were always ice. Hold them between your legs for a while and they turned icy and numb. Most of the mountains were bald. There was no firewood. There was no food to set on the table; one slab of pork belly had to make three pots of soup. The fish stopped coming. Shoals played in the Pacific, skirted the Bohai Sea, and turned away to Osaka.
 
@@ -34,7 +34,7 @@ He looked straight ahead, then around the circle. The audience had the eyes of d
 
 He did not speak. Last time he had been taught a sentence: *Mes yeux sont les yeux des chinois.* Before cameras that steal the soul, before documentary directors who trade other people's suffering for emotion, before French missionaries who drifted from Saigon all the way to the Lancang River, then drove horse carts to the Red River ferry, one could say this: my eyes are the eyes of the Chinese.
 
-The ring of eyes around him were like dogs' eyes, cherishing a spare rib so dearly they wanted to dig a hole and hide it. They wanted to pull him apart. They were also afraid the things inside his head would disappear and his mouth would never open again.
+The eyes around him were like dogs' eyes, cherishing a spare rib so dearly they wanted to dig a hole and hide it. They wanted to pull him apart. They were also afraid the things inside his head would disappear and his mouth would never open again.
 
 He performed kuaiban<button class="note-ref" type="button" data-note="Kuaiban is a Chinese storytelling form performed to the rhythm of bamboo clappers.">※</button>, the clappers cracking. His fingers rolled over his wrist, drawing a beautiful figure eight. They plainly had only three joints, yet always joined into the Big Dipper, filling people with fellow feeling.
 
