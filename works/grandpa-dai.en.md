@@ -36,7 +36,7 @@ He did not speak. Last time he had been taught a sentence: *Mes yeux sont les ye
 
 The eyes around him were like dogs' eyes, cherishing a spare rib so dearly they wanted to dig a hole and hide it. They wanted to pull him apart. They were also afraid the things inside his head would disappear and his mouth would never open again.
 
-He performed kuaiban<button class="note-ref" type="button" data-note="Kuaiban is a Chinese storytelling form performed to the rhythm of bamboo clappers.">※</button>, the clappers cracking. His fingers rolled over his wrist, drawing a beautiful figure eight. They plainly had only three joints, yet always joined into the Big Dipper, filling people with fellow feeling.
+He performed kuaiban, a form of storytelling paced by bamboo clappers. The clappers cracked. His fingers rolled over his wrist, drawing a beautiful figure eight. They plainly had only three joints, yet always joined into the Big Dipper, filling people with fellow feeling.
 
 The audience's mouths hung slightly open. They squeezed their brows and worked their eyes, twisting their features into unnatural shapes, staring at those fingers. They watched a finger slide from beneath his long jacket onto the tabletop, lightly tap the storyteller's block twice, then hook it tenderly before lifting it.
 

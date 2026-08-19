@@ -139,7 +139,7 @@ In winter there are people in smooth fur, looking like otters, gleaming vividly 
 
 The mouse moves beneath the drain cover, scraping against weeds and kicking small stones. The person still does not look up. He has already denied the little mouse's existence. The little mouse is watching. He does not believe this fact.
 
-The little mouse pays no rent. It appears on every street and keeps a tacit understanding with the houses. A certain higher ethic: “The sage keeps to the deed that consists in taking no action and practises the teaching that uses no words. The work is done without dwelling on it; because there is no dwelling, it does not pass away.”<button class="note-ref" type="button" data-note="From chapter 2 of the Daodejing, traditionally attributed to Laozi.">※</button>
+The little mouse pays no rent. It appears on every street and keeps a tacit understanding with the houses. A certain higher ethic, in Laozi’s *Daodejing*: “The sage keeps to the deed that consists in taking no action and practises the teaching that uses no words. The work is done without dwelling on it; because there is no dwelling, it does not pass away.”
 
 The little mouse does not sing. It eats itself big and round. In an old house close to collapse, every step makes the ceiling tremble. It says not a word, only leaves scraps of food—there is a hole in your kitchen.
 
