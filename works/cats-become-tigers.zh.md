@@ -4,6 +4,8 @@ title: 在秦皇岛，猫可以变成老虎
 lang: zh-CN
 year: 2026
 permalink: /cats-become-tigers.html
+alternate: /cats-become-tigers-en.html
+alternate_lang: en
 ---
 
 以前，我挺喜欢老虎的。小时候喜欢老虎并不是一件有面子的事，其他朋友都喜欢霸王龙、迅猛龙和轰炸机还有裂空座和生化危机，老虎没有资格被喜欢。老虎挺废物的，他们进化出利爪又如何呢。
@@ -103,4 +105,3 @@ permalink: /cats-become-tigers.html
 我觉得老虎说的很有道理，随即拿出手机跟保守的网友吵了半小时。老虎把我拍进去了，我感觉还不错，我气急败坏的样子看起来很幽默。这会是个不错的片子。可惜还是没有拍到老虎。
 
 更可惜的是，我从来没遇见过老虎。你看啊，它们在那一动不动，到底有什么可拍的。
-

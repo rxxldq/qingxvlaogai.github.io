@@ -2,6 +2,8 @@
   url: /cats-become-tigers.html
   year: 2026
   order: 10
+  english_url: /cats-become-tigers-en.html
+  ai_translation: true
 - title: 聚酯纤维
   url: /polyester-fiber.html
   year: 2026
