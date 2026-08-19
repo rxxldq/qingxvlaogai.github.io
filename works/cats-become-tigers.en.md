@@ -24,7 +24,7 @@ The picture of the cat was still cute, like a cat freshly abandoned, beset by th
 
 Only later did I learn that cats and tigers in the newspaper were both metaphors for corrupt officials. Of course that was the answer, but by now I had no time to care. Maybe one day I would make a film about cats and tigers.
 
-Maybe I would do it right now: start by writing a screenplay about cats and tigers. I remember studying film at some university in Sydney. Most of the class were Chinese; there were only two or three white students. At first I played games on my computer. Later I got addicted to short-form videos and never stopped watching them, not even in class. The only thing I remember is the time we did film reviews. I assumed everyone would talk about some boring Antonioni or Godard, but the only white guy in the class turned out to be presenting Bi Gan's *Long Day’s Journey Into Night*. Every Chinese student took out a phone to record him. I used to repeat after other people that Bi Gan was only a clumsy imitator of the West. Maybe Westerners did not think so. All the Chinese students laughed. A vast despair struck me. I thought perhaps I did not like tigers anymore.
+Maybe I would do it right now: start by writing a screenplay about cats and tigers. I remember studying film at some university in Sydney. Most of the class were Chinese; there were only two or three white students. At first I played games on my computer. Later I got addicted to short-form videos and never stopped watching them, not even in class. The only thing I remember is the time we did film reviews. I assumed everyone would talk about some boring Michelangelo Antonioni or Jean-Luc Godard, but the only white guy in the class turned out to be presenting Bi Gan's *Long Day’s Journey Into Night*. Every Chinese student took out a phone to record him. I used to repeat after other people that Bi Gan was only a clumsy imitator of the West. Maybe Westerners did not think so. All the Chinese students laughed. A vast despair struck me. I thought perhaps I did not like tigers anymore.
 
 Once, in the common area outside the classroom, someone walked toward me.
 
@@ -57,7 +57,7 @@ But in reality, the tiger walked toward me and said: “I quite like tigers.”
 
 “Which film are you going to talk about?” I asked.
 
-“Visconti's *The Leopard*.”
+“Luchino Visconti's *The Leopard*.”
 
 “That's all right, I suppose.”
 

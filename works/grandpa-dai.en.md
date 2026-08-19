@@ -19,7 +19,7 @@ Fishermen's children called clams tuna. Their parents wanted to cry but had no t
 
 Grandpa Dai would flick one fin and thirty or fifty great silver hairtails would plunge into the nets all together. First the fishermen kowtowed and lit incense. Three plates: pork hindquarter, beef shank, sheep-tail fat, with three peaches in the middle. Bang, bang, into the water.
 
-Once ashore, the hairtails were thrown straight onto the ground, every one three chi and three cun long, frozen hard as clubs in the night. Some men were bold enough to sell the hairtails to the Armaments Office of the Board of War as jingals<button class="note-ref" type="button" data-note="A jingal was an exceptionally large musket fired from a rest and often carried by a two-man team.">※</button>. Then one year in early spring, the crates were all soup and water. His Excellency Li ordered a batch of men beheaded at Caishikou. Their heads hung from the masts, their bodies propped at the sterns. Several great ships went back and forth outside Shanhaiguan for days. Grandpa Dai did not dare come again.”
+Once ashore, the hairtails were thrown straight onto the ground, every one three chi and three cun long—just over a metre—and frozen hard as clubs in the night. Some men were bold enough to sell the hairtails to the Armaments Office of the Board of War as jingal wall guns. Then one year in early spring, the crates were all soup and water. His Excellency Li ordered a batch of men beheaded at Caishikou. Their heads hung from the masts, their bodies propped at the sterns. Several great ships went back and forth outside Shanhaiguan for days. Grandpa Dai did not dare come again.”
 
 The horse kept lifting its hind feet, unable to find its balance on the stone road. We grew noisy and quiet again, waiting for him to come. Once he came, naturally he would speak. Did Grandpa Dai like the tribute? The sea was as black as time. Fog rose every night and all the criminals came out. In principle, mounted constables from the yamen kept the peace, but they had gone too long without fish. Lacking vitamin A, they could not see the demonstrators at night and seized people at random. Night watchmen, floor-moppers, and municipal sprinkler trucks crowded the county yamen.
 
@@ -55,7 +55,7 @@ The Supreme Court answers only to the Constitution. I can answer only to creatio
 
 I did not know what direction the sunlight came from. The sky in the Southern Hemisphere was higher, the sun closer, flashing between buildings. I changed buses again and went to the inner harbour, looking over the port through a hundred and seventy degrees. I was subtitling an old French film: the story of Grandpa Dai.
 
-Translating a particular text into another language. Writers also translate the countless works of other people into their own language. Deleuze says creation is the drawing of a line of flight; the writer flees from other people. I wanted to flee from the film and translate every subtitle into swear words.
+Translating a particular text into another language. Writers also translate the countless works of other people into their own language. Gilles Deleuze says creation is the drawing of a line of flight; the writer flees from other people. I wanted to flee from the film and translate every subtitle into swear words.
 
 At the beginning of all things there was language, yet you were silent as a fish.
 
@@ -69,7 +69,7 @@ Grandpa Dai, a name children love to call out. They were as old as Grandpa Dai. 
 
 Grandpa Dai, come back. We only want to see you. The wren nests in the deep forest but uses no more than one branch; the mole drinks from the river but takes no more than a bellyful. The wish of a small man is merely to have enough. Should we spend money? Once we earn more and spend more, once we turn Qinhuangdao into a 5A tourist attraction and the financial center of Bohai Bay, will Grandpa Dai come back?
 
-My grandfather and grandmother were the only newlyweds not married under Grandpa Dai's witness. My grandfather's childhood friend had followed General Duan in Tianjin and scraped together a little glory in battle. On the wedding day, he gave my grandfather a Hanyang 88<button class="note-ref" type="button" data-note="The Hanyang 88 was a Chinese-made bolt-action rifle based on the German Gewehr 88.">※</button>. It shone like a hairtail in the sun, wood and iron growing together, a living gun, Grandpa Dai wandering.
+My grandfather and grandmother were the only newlyweds not married under Grandpa Dai's witness. My grandfather's childhood friend had followed General Duan in Tianjin and scraped together a little glory in battle. On the wedding day, he gave my grandfather a Hanyang 88 rifle. It shone like a hairtail in the sun, wood and iron growing together, a living gun, Grandpa Dai wandering.
 
 The Executioner's Story
 His Excellency Li, your hand was truly ruthless. The men were beheaded before the fleet even left Shanhaiguan.
@@ -113,7 +113,7 @@ My grandfather said, then let's play Russian roulette. The little Japanese devil
 
 In the dripping wet fog, my grandfather and the little Japanese devil played Russian roulette with the gun. The day was damp. Grandpa Dai liked weather like this. The Hanyang 88 gleamed silver. It did not like being held; hands sweated and were too sticky. It opened its toothless mouth.
 
-Pessoa said: the making of almost every work contains a flash of imitation, a learned shudder, and stolen ecstasy.
+Fernando Pessoa said: the making of almost every work contains a flash of imitation, a learned shudder, and stolen ecstasy.
 
 The little Japanese devil went down to the beach. My grandfather threw the Hanyang 88 into the sea. It slipped happily through the surface, deeper and deeper, going to find its friends. He bent down like a peasant. He had seen the plaque reading FIRST PASS UNDER HEAVEN too many times before. He did not want to look up again.
 

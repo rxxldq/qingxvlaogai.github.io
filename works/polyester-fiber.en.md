@@ -41,7 +41,7 @@ No, C said.
 
 I remember F coming that day. Your parents were too embarrassed to throw her out.
 
-She knocked softly. She had not brought the usual two cartons of cigarettes, two bottles of liquor, or a fruit basket. The moment your parents opened the door, her piercings and eye makeup gave them a fright. The makeup was mostly there to hide the eyes she had nearly cried blind, but it looked quite gothic. She wore her most expensive clothes. Remember? A slightly dated, *quite flash* dress with a dragon pattern, purple tights, and a pair of New Rocks. I am so sick of New Rock. Aesthetic fatigue.
+She knocked softly. She had not brought the usual two cartons of cigarettes, two bottles of liquor, or a fruit basket. The moment your parents opened the door, her piercings and eye makeup gave them a fright. The makeup was mostly there to hide the eyes she had nearly cried blind, but it looked quite gothic. She wore her most expensive clothes. Remember? A slightly dated, *quite flash* dress with a dragon pattern, purple tights, and a pair of New Rock boots. I am so sick of New Rock. Aesthetic fatigue.
 
 C thought so too.
 
@@ -77,7 +77,7 @@ Before he died, he saw plenty of girls too. He could not accept being in a coupl
 
 C said he envied the men and women he saw on the street: the ones in glasses, the ones with clean pale faces, the ones who covered their pimples with blue star stickers, the ones whose features simply sat there on their faces. The women, and the men beside them, stupid enough to make a perfect match.
 
-Bro, look what they're wearing: fashionable jeans bought online, mass-produced in a factory, one thin skin of fabric with no workmanship, uniformly machine-washed, even the rips and patches all in the same places, cut open with a worker's knife instead of worn through naturally. The pale, washed-out blue trousers were like sheets of paper draped over their bodies, thin as an Okamoto<button class="note-ref" type="button" data-note="Okamoto is a Japanese condom brand known for ultra-thin products.">※</button>. Jeans like those would never take on the patterns and distinctive wear marks of their owners' movements, never mind whiskers or honeycombs. Just a sheet of paper hung on a person. As they walked, the trouser legs slid backward and forward, unaware of how pitifully ordinary they were.
+Bro, look what they're wearing: fashionable jeans bought online, mass-produced in a factory, one thin skin of fabric with no workmanship, uniformly machine-washed, even the rips and patches all in the same places, cut open with a worker's knife instead of worn through naturally. The pale, washed-out blue trousers were like sheets of paper draped over their bodies, thin as an Okamoto condom. Jeans like those would never take on the patterns and distinctive wear marks of their owners' movements, never mind whiskers or honeycombs. Just a sheet of paper hung on a person. As they walked, the trouser legs slid backward and forward, unaware of how pitifully ordinary they were.
 
 Then there were the people in overcoats. None of them wore real overcoats, only fluffy Korean-style ones, none of them made from virgin wool. They strutted like old-time examination champions being paraded through town. The things covered their bodies like pot lids. Lift one and it seemed filled with hydrogen, light enough to float away, under five jin—barely five and a half pounds.
 
@@ -129,7 +129,7 @@ She could not sleep.
 
 I saw the toy beside her pillow. She held it and cried.
 
-A plush toy. Plush. The one I bought her, through WeChat's gift function.
+A plush toy. Plush. The one I bought her, through WeChat's gift feature.
 
 Thirty yuan.
 
