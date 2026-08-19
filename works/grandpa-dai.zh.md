@@ -4,6 +4,8 @@ title: 带爷爷的故事
 lang: zh-CN
 year: 2025
 permalink: /grandpa-dai.html
+alternate: /grandpa-dai-en.html
+alternate_lang: en
 ---
 
 我们不是农民。
@@ -115,4 +117,3 @@ permalink: /grandpa-dai.html
 小鬼子走到了沙滩上。我爷爷把汉阳造扔进海，它快乐地钻入水面，越来越深，去找它的朋友们。他像农民一样弯下腰，以前见过太多次天下第一关的牌匾，他不想再抬头了。
 
 他告诉我，小鬼子也倒在沙滩上，什么都没流。他和我站在沙滩上等带爷爷，我一直咳嗽。
-

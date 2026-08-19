@@ -24,6 +24,8 @@
   url: /grandpa-dai.html
   year: 2025
   order: 20
+  english_url: /grandpa-dai-en.html
+  ai_translation: true
 - title: 策展人
   url: /curator.html
   year: 2025
