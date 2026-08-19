@@ -48,6 +48,8 @@
 - title: 寻找何莉
   english_title: Looking for He Li
   url: /looking-for-he-li.html
+  english_url: /looking-for-he-li-en.html
+  ai_translation: true
   year: 2024
   order: 10
 - title: 夏天在秦皇岛
