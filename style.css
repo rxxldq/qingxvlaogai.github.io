@@ -89,10 +89,22 @@ a:focus-visible { text-decoration-color: currentColor; }
   list-style: none;
 }
 
-.writing-list li + li { margin-top: 0.65rem; }
-.writing-list a { font-size: 1.08rem; text-decoration: none; }
-.writing-list a:hover,
-.writing-list a:focus-visible { text-decoration: underline; }
+.writing-list li + li { margin-top: 1rem; }
+.work-title { display: block; font-size: 1.08rem; line-height: 1.45; text-decoration: none; }
+.work-title:hover,
+.work-title:focus-visible,
+.english-title a:hover,
+.english-title a:focus-visible { text-decoration: underline; }
+
+.english-title {
+  margin-top: 0.12rem;
+  color: var(--quiet);
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.english-title a { text-decoration: none; }
+.ai-mark { margin-left: 0.2rem; font-size: 0.62rem; opacity: 0.72; }
 
 .translation-link {
   display: inline-block;
@@ -110,19 +122,6 @@ a:focus-visible { text-decoration-color: currentColor; }
   border-top: 1px solid var(--ink);
   border-bottom: 1px solid var(--rule);
 }
-
-.special-edition h2 {
-  margin: 0 0 0.8rem;
-  color: var(--quiet);
-  font-size: 0.72rem;
-  font-weight: 400;
-  letter-spacing: 0.08em;
-}
-
-.special-edition h2 span { margin-left: 0.65rem; letter-spacing: 0.02em; }
-.special-edition p { margin: 0; }
-.special-edition > p > a:first-child { text-decoration: none; }
-.author-version { opacity: 0.85; }
 
 .visually-hidden {
   position: absolute;
