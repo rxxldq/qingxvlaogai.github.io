@@ -40,9 +40,9 @@ Then I would say: “All right. I didn't do anything to you.”
 
 A tiger does not give up his prey easily. We can imagine how relentlessly he would go on:
 
-“I can picture you walking down the street with both hands in your pockets, a cigarette pinched between thumb and forefinger. There are ten million versions of you inside your head, imagining how cool you are. When you walk, you imagine you're a huge star and there is always a camera filming a documentary about you. You have to deliver your golden rules about everything around you. When you listen to music through your headphones, you imagine you're a huge star. You imagine your influence is already so enormous that you can exist as the world's most experimental, most avant-garde, freest, most personally expressive work, interpreted and passed down by countless people. You pretend you're immortal—the kind of immortal whose decision to take off or keep on his hat before an aristocrat will be interpreted for its political leanings hundreds of years later. The way you perform yourself is fucking disgusting.”
+“I can picture you walking down the street with both hands in your pockets, a cigarette pinched between thumb and forefinger. There are ten million versions of you inside your head, imagining how cool you are. When you walk, you imagine you're a huge star and there is always a camera filming a documentary about you. You have to deliver your golden rules about everything around you. When you listen to music through your headphones, you imagine you're a huge star. You imagine your influence is already so enormous that you can exist as the world's most experimental, most avant-garde, freest, most personally expressive work, interpreted and passed down by countless people. You pretend you're immortal—the kind of immortal whose decision to take off or keep on his hat before an aristocrat will be interpreted for its political leanings hundreds of years later. The way you perform yourself is genuinely disgusting.”
 
-All right, if the tiger said that, he would still be useful to me. I would quite like it.
+All right, if the tiger said that, he would still be useful to me. I would like that.
 
 “Thanks,” I would say. “Want to go out for a cigarette?”
 
@@ -91,7 +91,7 @@ If the tiger said that, my story could end. At last I could be rid of them. I wo
 
 I do not really like you phony tigers. You dress up as human beings in my stories and say strange things, pretending you are some kind of symbol, when in fact you are nothing. But what can I do? I only want to become an excavator, a bomber, or a loader.
 
-I finished my screenplay. At last I managed to beg a tiger onto the set. I had made it perfectly clear: all you have to do is sit there and play with your phone. You know, it's a tremendous satire of modernity, a tremendous satire of short-form video.
+I finished my screenplay. At last I got a tiger to come to the set. I had made it perfectly clear: all you have to do is sit there and use your phone. You know, it's a tremendous satire of modern life, a tremendous satire of short-form video.
 
 “You're disgusting,” the tiger said. “You think you're clever, but you make me look stupid. I don't want to sit here playing with a phone all day.”
 

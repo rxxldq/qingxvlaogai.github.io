@@ -41,7 +41,7 @@ No, C said.
 
 I remember F coming that day. Your parents were too embarrassed to throw her out.
 
-She knocked softly. She had not brought the usual two cartons of cigarettes, two bottles of liquor, or a fruit basket. The moment your parents opened the door, her piercings and eye makeup gave them a fright. The makeup was mostly there to hide the eyes she had nearly cried blind, but it looked quite gothic. She wore her most expensive clothes. Remember? A slightly dated, *quite flash* dress with a dragon pattern, purple tights, and a pair of New Rock boots. I am so sick of New Rock. Aesthetic fatigue.
+She knocked softly. She had not brought the usual two cartons of cigarettes, two bottles of liquor, or a fruit basket. The moment your parents opened the door, her piercings and eye makeup gave them a fright. The makeup was mostly there to hide the fact that she had nearly cried herself blind, though it did look quite gothic. She wore her most expensive clothes. Remember? A slightly dated, *quite flash* dress with a dragon pattern, purple tights, and a pair of New Rock boots. I am so sick of New Rock. Aesthetic fatigue.
 
 C thought so too.
 
@@ -49,7 +49,7 @@ After F came in, she sat on the sofa with her head lowered.
 
 Your mother did not even say, “My son is dead; why don't you be my goddaughter?”
 
-Your mother really did want to see F. She was the first to come. She had thought she was your only lover. Or something beyond that.
+Your mother really did want to see F. F was the first to come. She thought she had been your only lover. Or something beyond that.
 
 You were dead, though while alive you had never known what responsibility meant either.
 
@@ -142,7 +142,7 @@ I was already dead, dead like a plastic bottle, disgusting as polyester fiber.
 F could not see the people she wanted to see or do the things she wanted to do. She could not refuse the cushion at hand. She could not refuse missing someone. Every day new people appeared on her social apps. She
 put down her phone, and the world ended.
 
-She opened her phone again to see whether anyone had replied to her comment. She opened her phone, and the world still did not materialize around her—only some things nobody cared about.
+She picked up her phone again to see whether anyone had replied to her comment. She picked up her phone, and the world still did not appear around her—only a few things nobody cared about.
 
 I stood beside her. F could not see me. I looked at the polyester fiber. F held it tighter.
 
@@ -171,8 +171,8 @@ All they have done is acquire a dead friend, along with things one does for a de
 I have many dead friends. All I can do is think about them often. They lived into their teens or twenties
 and then went and died.
 
-There are many people like that. They are sung about.
+There are many people like that. They are eulogized.
 
 I cannot do anything now. Most of the time all I have is the guilt and grief after masturbating, and after waking from a dream in which I saw people I will never see again. Then I want to die, want to die just to show the alarm clock that woke me, to show the people who are always telling me to get up, but it is no use at all.
 
-While F held polyester fiber, I was writing—writing a little about life and death, thinking I was so fucking beyond it all. Just like holding polyester fiber.
+While F held polyester fiber, I was writing—writing a little about life and death, thinking I was so far above it all. Just like holding polyester fiber.
