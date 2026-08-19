@@ -4,6 +4,8 @@ title: 夏天在秦皇岛
 lang: zh-CN
 year: 2024
 permalink: /summer-in-qinhuangdao.html
+alternate: /summer-in-qinhuangdao-en.html
+alternate_lang: en
 ---
 
 公园厕所与旁边狼狈的小房子都不怎么引人注目，譬如门卫室，传达室，某管理处。你看见它们时就意味着你已立在门口。今早我醒来，我立刻发现有什么东西变得不一样，昨晚下了过雨。
@@ -57,4 +59,3 @@ permalink: /summer-in-qinhuangdao.html
 您与我一样都是个无趣的符号，音乐激闹，蚊虫叮咬，我能看见昆虫们纤细的脚如同脆弱的现代艺术品一样停留在我身上。
 
 在这轻盈的夜晚，有些东西顺着backspace键溜走了，我突然明白我能够重新认识这个世界，我是一滩水渍，我就是空气，我曾是膀胱，找不到厕所的我已经爆炸了，把读者的注意力引到水洗煤颜色的天空上。
-
