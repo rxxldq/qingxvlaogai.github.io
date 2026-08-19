@@ -4,6 +4,8 @@ title: 策展人
 lang: zh-CN
 year: 2025
 permalink: /curator.html
+alternate: /curator-en.html
+alternate_lang: en
 ---
 
 1

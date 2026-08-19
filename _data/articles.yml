@@ -36,6 +36,8 @@
 - title: 策展人
   english_title: The Curator
   url: /curator.html
+  english_url: /curator-en.html
+  ai_translation: true
   year: 2025
   order: 30
 - title: 下周升温
