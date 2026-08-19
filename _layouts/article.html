@@ -16,7 +16,7 @@
       {% if page.lang == 'en' %}<a href="{{ page.alternate | relative_url }}">中文</a> <span aria-current="page">English</span>{% else %}<span aria-current="page">中文</span> <a href="{{ page.alternate | relative_url }}" lang="en">English</a>{% endif %}
     </nav>
     {% endif %}
-    {% if page.kind == 'poetry' %}<p class="edition-label">{% if page.lang == 'en' %}Special Edition · Poetry{% else %}特别版 · 诗{% endif %}</p>{% endif %}
+    {% if page.kind == 'poetry' %}<p class="edition-label">{% if page.lang == 'en' %}Poetry{% else %}诗{% endif %}</p>{% endif %}
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="about-subtitle">{{ page.subtitle }}</p>{% endif %}
     {% if page.ai_translation %}<p class="translation-note">AI translation — closely following the imagery and cadence of the original Chinese.</p>{% endif %}
